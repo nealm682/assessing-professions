@@ -102,5 +102,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions or feedback, please contact:
-- **Author**: [Your Name](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Author**: [Neal M](mailto:nealm682@gmail.com)
+
