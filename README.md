@@ -95,9 +95,6 @@ Easily filter tasks by category to focus on relevant data.
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for feature suggestions or bug fixes.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
